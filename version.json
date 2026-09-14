@@ -1,0 +1,10 @@
+{
+  "launcher": {
+    "version": "1.0.1",
+    "download_url": "https://wrz1.com/HavenLauncher_v1.0.1.exe"
+  },
+  "game": {
+    "version": "1.0.2",
+    "download_url": "https://www.mediafire.com/file/xxxx/patch_v1.0.2.zip/file"
+  }
+}
